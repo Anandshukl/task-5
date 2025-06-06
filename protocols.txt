@@ -1,0 +1,16 @@
+PROTOCOL            purpose            source IP               destination
+
+
+DNS                 Domain name        192.168.153.186         192.168.153.98
+                    resolution
+
+
+
+TCP                 Connection         192.168.153.186         23.106.56.54
+                    establishment
+
+
+
+
+HTTP                 Requesting a      192.168.153.186          _________
+                     Web page
